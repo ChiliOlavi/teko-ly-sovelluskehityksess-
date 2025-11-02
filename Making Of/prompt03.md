@@ -1,0 +1,6 @@
+Vedän Koutuluksen sisältö.md -tiedostossa kuvatun mukaisen koulutuksen.
+Olen luonut kansiot jokaiselle eri harjoitukselle. 
+Laadi harjoituksen 3 mukainen harjoitus kyseiseen kansioon. 
+Aiheena on koodin optimointi tekoälyllä. Laadi harjoitus Python 3.12:lla, ilman ylimääräisiä kirjastoja. Aloita kirjoittamalla n. 15 mallifunktiota, osa yksinkertaisia, osa todella kompleksisia. Sitten luo toinen tiedosto, jossa on hitaampia versioita jokaisesta funkitosta. Älä jätä tähän tiedostoon kommentteja, jotka paljastavat missä hidastukset sijaitsevat. Hitaan tiedoston tulee myös pyöriä, ja funktioiden täytyy palauttaa samat asiat kuin alkuperäisten.
+Harjoituksen tekijän tehtävänä on luoda kielimallilla uusi tiedosto, vastaus.py, joka on nopeampi kuin hidas tiedosto. Kirjoita tiedosto nimeltä Tehtävänanto.md, jossa selitetään harjoituksen tekijälle, mitä hänen kuuluu tehdä.
+Viimeiseksi kirjoita tiedosto, joka vertailee hidastettujen funktioiden ja tehtävän suorittajan kirjoittamien funktioiden nopeutta. Sturkturoi koodi samalla tavalla kuin tehtävän 2 koodi.

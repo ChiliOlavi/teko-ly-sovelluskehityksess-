@@ -1,0 +1,6 @@
+Vedän Koutuluksen sisältö.md -tiedostossa kuvatun mukaisen koulutuksen.
+Olen luonut kansiot jokaiselle eri harjoitukselle. 
+Laadi harjoituksen 2 mukainen harjoitus kyseiseen kansioon. 
+Aiheena on siis virheiden korjaaminen tekoälyllä. Laadi harjoitus Python 3.12:lla, ilman ylimääräisiä kirjastoja. Aloita kirjoittamalla n. 15 mallifunktiota, osa yksinkertaisia, osa todella kompleksisia. Sitten luo toinen tiedosto, jossa on bugisia versioita jokaisesta tiedostosta. Aloita bugeista, jotka on helppo havaita, ja etene haastavampiin vähitellen. Älä jätä tähän tiedostoon kommentteja, jotka paljastavat missä bugit sijaitsevat. Bugisen tiedoston tulee myös pyöriä, mutta funktioiden pitää palauttaa eri asioita kuin alkuperäisessä tiedostossa.
+Harjoituksen tekijän tehtävänä on luoda kielimallilla uusi tiedosto joka ratkaisee bugit. Kirjoita tiedosto nimeltä Tehtävänanto.md, jossa selitetään harjoituksen tekijälle, mitä hänen kuuluu tehdä.
+Viimeiseksi kirjoita tiedosto, joka vertailee alkuperäisten funktioiden ja tehtävän suorittajan kirjoittamien funktioiden tuloksia ja pisteyttää sen.
